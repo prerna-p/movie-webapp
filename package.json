@@ -2,7 +2,7 @@
   "name": "pick-flick",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://prerna-p.github.io/movie-webap-client",
+  "homepage": "http://prerna-p.github.io/movie-webapp-client",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "cors": "^2.8.5",
